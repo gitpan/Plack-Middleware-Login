@@ -1,0 +1,17 @@
+Changes
+INSTALL
+LICENSE
+MANIFEST
+META.json
+META.yml
+Makefile.PL
+README
+TODO
+dist.ini
+lib/Plack/Middleware/Auth/Form.pm
+t/app.psgi
+t/main.t
+t/release-kwalitee.t
+t/release-pod-coverage.t
+t/release-pod-syntax.t
+t/unit.t
